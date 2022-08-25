@@ -141,7 +141,7 @@ u{
     font-size: x-large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-#edu, #Skills,#con{
+#edu,#s3, #Skills,#con{
     text-align: center;
     color: maroon;
 }
@@ -189,4 +189,9 @@ background-color:white;
     padding-bottom:50px ;
     padding-top: 50px;
     
+}
+#s3{
+    align-items: center;
+    justify-content:center ;
+    color: black;
 }
